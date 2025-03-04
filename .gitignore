@@ -20,9 +20,6 @@ local_vector_memory
 *metadata-test.json
 test_db.db
 
-# old admin folder
-admin
-
 # data folder (settings and models)
 core/cat/data/*
 !core/cat/data/.gitkeep

@@ -18,6 +18,7 @@ services:
       - TZ=${CCAT_TIMEZONE:-UTC}
     volumes:
       - ./core:/app
+      - ./admin:/admin
     command:
       - python
       - "-m"
