@@ -1,0 +1,9 @@
+{
+    "Amazon Titan Text G1 - Lite": false,
+    "Amazon Titan Text G1 - Express": false,
+    "Anthropic Claude 3 Sonnet": true,
+    "Anthropic Claude 3 Haiku": false,
+    "Mistral AI Mistral 7B Instruct": false,
+    "Mistral AI Mixtral 8x7B Instruct": false,
+    "Mistral AI Mistral Large (24,02)": false
+}

@@ -1,0 +1,6 @@
+{
+    "Amazon Titan Multimodal Embeddings G1": true,
+    "Amazon Titan Text Embeddings V2": false,
+    "Cohere Embed English": false,
+    "Cohere Embed Multilingual": false
+}

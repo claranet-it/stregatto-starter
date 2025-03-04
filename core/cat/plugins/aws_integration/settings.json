@@ -1,0 +1,9 @@
+{
+    "aws_access_key_id": "<aws_access_key_id>",
+    "aws_secret_access_key": "<aws_secret_access_key>",
+    "region_name": "<aws_region>",
+    "credentials_profile_name": "",
+    "endpoint_url": "",
+    "iam_role_assigned": false,
+    "caller_identity": "<arn_of_the_user_with_bedrock_access>"
+}
